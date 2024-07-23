@@ -335,7 +335,7 @@ def create_inputs(query, vector_store):
     return input
 ```
 
-测试，ShopBenchBaseModel 见 [base_model.py](../script/base_model.py)
+测试，ShopBenchBaseModel 见 [base_model.py](./script/base_model.py)
 
 选择轻量级的 [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/tree/main) 作为 Embedding 编码的模型
 

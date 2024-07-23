@@ -544,7 +544,7 @@ def calculate_ndcg(predicted_relevance_scores: List[int], true_relevance_weights
     return 0 if idcg == 0 else dcg / idcg
 ```
 
-见 [test_ndcg.py](../script/test_ndcg.py)
+见 [test_ndcg.py](./script/test_ndcg.py)
 
 微调前
 ```python
