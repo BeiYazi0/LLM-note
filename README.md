@@ -1,8 +1,10 @@
-# llama3
+## Ref
+
+[大模型相关技术原理以及实战经验](https://github.com/liguodongiot/llm-action)
 
 ---
 
-## 本地部署
+## llama3 本地部署
 
 ```python
 conda create --name llama3 python=3.9.18
@@ -309,8 +311,6 @@ class ShopBenchBaseModel:
 ---
 
 ## Related
-
-[大模型相关技术原理以及实战经验](https://github.com/liguodongiot/llm-action)
 
 [Transformer](https://zhuanlan.zhihu.com/p/389183195)
 
