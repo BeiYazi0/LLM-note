@@ -317,3 +317,11 @@ class ShopBenchBaseModel:
 [模型并行和分布式训练解析](https://zhuanlan.zhihu.com/p/343951042)
 
 [大模型学习路线（10）——入门项目推荐](https://blog.csdn.net/qq_51175703/article/details/137229088)
+
+---
+
+## 实现LLama3
+
+模型结构和权重参考[llama3-from-scratch-zh](https://github.com/wdndev/llama3-from-scratch-zh?tab=readme-ov-file)
+
+[实现](./script/llama3/llama)
