@@ -324,4 +324,4 @@ class ShopBenchBaseModel:
 
 模型结构和权重参考[llama3-from-scratch-zh](https://github.com/wdndev/llama3-from-scratch-zh?tab=readme-ov-file)
 
-[实现](./script/llama3/llama)
+[实现](./script/llama3/llama.py)
